@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "SlimsyRoom6707.aternos.me",
+    "port": 45011,
     "version": "1.20.1",
     "try-creative": false
   },
